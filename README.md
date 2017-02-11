@@ -9,15 +9,14 @@ XI View 2.0 includes updated Status Icons, Fonts, Graphic User Interface and Men
 
 --== INSTALLATION ==--
 To install XI View download then extract the archive and then choose the folder pertaining to your monitor resolution (normal screen or wide screen) and then copy the ROM folder to your FFXI directory choosing yes when prompted to overwrite any files. 
-The FFXI directory is *usually located at X:\Program Files\PlayOnline\SquareEnix\FINAL FANTASY XI\ or in x64 OS, X:\Program Files (x86)\PlayOnline\SquareEnix\FINAL FANTASY XI\ X in place of your drive label. (Usually C)
 
-*The Steam version of FINAL FANTASY XI is located at X:\Program Files\Steam\steamapps\common\ffxi\SquareEnix\FINAL FANTASY XI and X:\Program Files (x86)\Steam\steamapps\common\ffxi\SquareEnix\FINAL FANTASY XI
+The FFXI directory is usually located at X:\Program Files\PlayOnline\SquareEnix\FINAL FANTASY XI\ or in x64 OS, X:\Program Files (x86)\PlayOnline\SquareEnix\FINAL FANTASY XI\ X in place of your drive label. (Usually C)
+
+The Steam version of FINAL FANTASY XI is located at X:\Program Files\Steam\steamapps\common\ffxi\SquareEnix\FINAL FANTASY XI and X:\Program Files (x86)\Steam\steamapps\common\ffxi\SquareEnix\FINAL FANTASY XI
 ------------------------
 
 In Game for XI View Status Icons to work make sure in Game you go to this menu setting.
 Menu - Config - Misc. > Icon Type 2
-
-To install the menu themes select the preferred theme in the ROM/0 folder and rename it to something between 14 and 21.DAT. 
 
 ===================================================
 
