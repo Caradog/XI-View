@@ -1,0 +1,23 @@
+FFXI Silent Intro Music, will silent the intro track at the character selection screen. 
+A lot of dual boxing user like this feature for when logging in another POL you won't recieve that loud annoying intor music.
+
+==========================
+When running this app be sure to choose the correct install directory
+Default install directory is: X in place of your drive label. (Usually C)
+==========================
+
+x86 32bit OS
+X:\Program Files\PlayOnline\SquareEnix\FINAL FANTASY XI\
+
+ 
+x64 64bit OS
+X:\Program Files (x86)\PlayOnline\SquareEnix\FINAL FANTASY XI\ 
+
+
+
+*The Steam version of FINAL FANTASY XI is located at: 
+X:\Program Files\Steam\steamapps\common\ffxi\SquareEnix\FINAL FANTASY XI 
+
+or
+
+X:\Program Files (x86)\Steam\steamapps\common\ffxi\SquareEnix\FINAL FANTASY XI

@@ -1,0 +1,63 @@
+C:\Users\Admin\Desktop\FFXI_Icon_Change_v2_0\Source\FFXI-IconChange 2.0\obj\Release\FFXI-IconChange.exe
+C:\Users\Admin\Desktop\FFXI_Icon_Change_v2_0\Source\FFXI-IconChange 2.0\bin\Release\FFXI-IconChange.exe.manifest
+C:\Users\Admin\Desktop\FFXI_Icon_Change_v2_0\Source\FFXI-IconChange 2.0\bin\Release\FFXI-IconChange.application
+C:\Users\Admin\Desktop\FFXI_Icon_Change_v2_0\Source\FFXI-IconChange 2.0\bin\Release\FFXI-IconChange.exe
+C:\Users\Admin\Desktop\FFXI_Icon_Change_v2_0\Source\FFXI-IconChange 2.0\bin\Release\PlayOnline.FFXI.dll
+C:\Users\Admin\Desktop\FFXI_Icon_Change_v2_0\Source\FFXI-IconChange 2.0\bin\Release\PlayOnline.Core.dll
+C:\Users\Admin\Desktop\FFXI_Icon_Change_v2_0\Source\FFXI-IconChange 2.0\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\FFXI_Icon_Change_v2_0\Source\FFXI-IconChange 2.0\obj\Release\FFXI_IconChange.Form1.resources
+C:\Users\Admin\Desktop\FFXI_Icon_Change_v2_0\Source\FFXI-IconChange 2.0\obj\Release\FFXI_IconChange.ImportIconDialog.resources
+C:\Users\Admin\Desktop\FFXI_Icon_Change_v2_0\Source\FFXI-IconChange 2.0\obj\Release\ResGen.read.1.tlog
+C:\Users\Admin\Desktop\FFXI_Icon_Change_v2_0\Source\FFXI-IconChange 2.0\obj\Release\ResGen.write.1.tlog
+C:\Users\Admin\Desktop\FFXI_Icon_Change_v2_0\Source\FFXI-IconChange 2.0\obj\Release\FFXI-IconChange.exe.manifest
+C:\Users\Admin\Desktop\FFXI_Icon_Change_v2_0\Source\FFXI-IconChange 2.0\obj\Release\FFXI-IconChange.application
+C:\Users\Admin\Desktop\FFXI_Icon_Change_v3_0\Source\FFXI-IconChange 3.0\obj\Release\FFXI-IconChange.exe
+C:\Users\Admin\Desktop\FFXI_Icon_Change_v3_0\Source\FFXI-IconChange 3.0\bin\Release\FFXI-IconChange.exe.manifest
+C:\Users\Admin\Desktop\FFXI_Icon_Change_v3_0\Source\FFXI-IconChange 3.0\bin\Release\FFXI-IconChange.application
+C:\Users\Admin\Desktop\FFXI_Icon_Change_v3_0\Source\FFXI-IconChange 3.0\bin\Release\FFXI-IconChange.exe
+C:\Users\Admin\Desktop\FFXI_Icon_Change_v3_0\Source\FFXI-IconChange 3.0\bin\Release\PlayOnline.FFXI.dll
+C:\Users\Admin\Desktop\FFXI_Icon_Change_v3_0\Source\FFXI-IconChange 3.0\bin\Release\PlayOnline.Core.dll
+C:\Users\Admin\Desktop\FFXI_Icon_Change_v3_0\Source\FFXI-IconChange 3.0\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\FFXI_Icon_Change_v3_0\Source\FFXI-IconChange 3.0\obj\Release\FFXI_IconChange.Form1.resources
+C:\Users\Admin\Desktop\FFXI_Icon_Change_v3_0\Source\FFXI-IconChange 3.0\obj\Release\FFXI_IconChange.ImportIconDialog.resources
+C:\Users\Admin\Desktop\FFXI_Icon_Change_v3_0\Source\FFXI-IconChange 3.0\obj\Release\ResGen.read.1.tlog
+C:\Users\Admin\Desktop\FFXI_Icon_Change_v3_0\Source\FFXI-IconChange 3.0\obj\Release\ResGen.write.1.tlog
+C:\Users\Admin\Desktop\FFXI_Icon_Change_v3_0\Source\FFXI-IconChange 3.0\obj\Release\FFXI-IconChange.exe.manifest
+C:\Users\Admin\Desktop\FFXI_Icon_Change_v3_0\Source\FFXI-IconChange 3.0\obj\Release\FFXI-IconChange.application
+C:\Users\Admin\Desktop\FFXI_Icon_Change_v3_1\Source\FFXI-IconChange 3.1\obj\Release\FFXI-IconChange.exe
+C:\Users\Admin\Desktop\FFXI_Icon_Change_v3_1\Source\FFXI-IconChange 3.1\bin\Release\FFXI-IconChange.exe.manifest
+C:\Users\Admin\Desktop\FFXI_Icon_Change_v3_1\Source\FFXI-IconChange 3.1\bin\Release\FFXI-IconChange.application
+C:\Users\Admin\Desktop\FFXI_Icon_Change_v3_1\Source\FFXI-IconChange 3.1\bin\Release\FFXI-IconChange.exe
+C:\Users\Admin\Desktop\FFXI_Icon_Change_v3_1\Source\FFXI-IconChange 3.1\bin\Release\PlayOnline.FFXI.dll
+C:\Users\Admin\Desktop\FFXI_Icon_Change_v3_1\Source\FFXI-IconChange 3.1\bin\Release\PlayOnline.Core.dll
+C:\Users\Admin\Desktop\FFXI_Icon_Change_v3_1\Source\FFXI-IconChange 3.1\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\FFXI_Icon_Change_v3_1\Source\FFXI-IconChange 3.1\obj\Release\FFXI_IconChange.Form1.resources
+C:\Users\Admin\Desktop\FFXI_Icon_Change_v3_1\Source\FFXI-IconChange 3.1\obj\Release\FFXI_IconChange.ImportIconDialog.resources
+C:\Users\Admin\Desktop\FFXI_Icon_Change_v3_1\Source\FFXI-IconChange 3.1\obj\Release\ResGen.read.1.tlog
+C:\Users\Admin\Desktop\FFXI_Icon_Change_v3_1\Source\FFXI-IconChange 3.1\obj\Release\ResGen.write.1.tlog
+C:\Users\Admin\Desktop\FFXI_Icon_Change_v3_1\Source\FFXI-IconChange 3.1\obj\Release\FFXI-IconChange.exe.manifest
+C:\Users\Admin\Desktop\FFXI_Icon_Change_v3_1\Source\FFXI-IconChange 3.1\obj\Release\FFXI-IconChange.application
+C:\Users\admin\Desktop\FFXI_Icon_Change_v3_2\Source\FFXI-IconChange 3.2\obj\Release\FFXI-IconChange.exe
+C:\Users\admin\Desktop\FFXI_Icon_Change_v3_2\Source\FFXI-IconChange 3.2\bin\Release\FFXI-IconChange.exe.manifest
+C:\Users\admin\Desktop\FFXI_Icon_Change_v3_2\Source\FFXI-IconChange 3.2\bin\Release\FFXI-IconChange.application
+C:\Users\admin\Desktop\FFXI_Icon_Change_v3_2\Source\FFXI-IconChange 3.2\bin\Release\FFXI-IconChange.exe
+C:\Users\admin\Desktop\FFXI_Icon_Change_v3_2\Source\FFXI-IconChange 3.2\bin\Release\PlayOnline.FFXI.dll
+C:\Users\admin\Desktop\FFXI_Icon_Change_v3_2\Source\FFXI-IconChange 3.2\bin\Release\PlayOnline.Core.dll
+C:\Users\admin\Desktop\FFXI_Icon_Change_v3_2\Source\FFXI-IconChange 3.2\obj\Release\ResolveAssemblyReference.cache
+C:\Users\admin\Desktop\FFXI_Icon_Change_v3_2\Source\FFXI-IconChange 3.2\obj\Release\FFXI_IconChange.Form1.resources
+C:\Users\admin\Desktop\FFXI_Icon_Change_v3_2\Source\FFXI-IconChange 3.2\obj\Release\FFXI_IconChange.ImportIconDialog.resources
+C:\Users\admin\Desktop\FFXI_Icon_Change_v3_2\Source\FFXI-IconChange 3.2\obj\Release\ResGen.read.1.tlog
+C:\Users\admin\Desktop\FFXI_Icon_Change_v3_2\Source\FFXI-IconChange 3.2\obj\Release\ResGen.write.1.tlog
+C:\Users\admin\Desktop\FFXI_Icon_Change_v3_2\Source\FFXI-IconChange 3.2\obj\Release\FFXI-IconChange.exe.manifest
+C:\Users\admin\Desktop\FFXI_Icon_Change_v3_2\Source\FFXI-IconChange 3.2\obj\Release\FFXI-IconChange.application
+C:\Users\admin\Desktop\FFXI IconChange\FFXI_Icon_Change_v3_3\Source\FFXI-IconChange 3.3\obj\Release\FFXI-IconChange.exe
+C:\Users\admin\Desktop\FFXI IconChange\FFXI_Icon_Change_v3_3\Source\FFXI-IconChange 3.3\bin\Release\FFXI-IconChange.exe.manifest
+C:\Users\admin\Desktop\FFXI IconChange\FFXI_Icon_Change_v3_3\Source\FFXI-IconChange 3.3\bin\Release\FFXI-IconChange.application
+C:\Users\admin\Desktop\FFXI IconChange\FFXI_Icon_Change_v3_3\Source\FFXI-IconChange 3.3\bin\Release\FFXI-IconChange.exe
+C:\Users\admin\Desktop\FFXI IconChange\FFXI_Icon_Change_v3_3\Source\FFXI-IconChange 3.3\bin\Release\PlayOnline.FFXI.dll
+C:\Users\admin\Desktop\FFXI IconChange\FFXI_Icon_Change_v3_3\Source\FFXI-IconChange 3.3\bin\Release\PlayOnline.Core.dll
+C:\Users\admin\Desktop\FFXI IconChange\FFXI_Icon_Change_v3_3\Source\FFXI-IconChange 3.3\obj\Release\FFXI_IconChange.Form1.resources
+C:\Users\admin\Desktop\FFXI IconChange\FFXI_Icon_Change_v3_3\Source\FFXI-IconChange 3.3\obj\Release\FFXI_IconChange.ImportIconDialog.resources
+C:\Users\admin\Desktop\FFXI IconChange\FFXI_Icon_Change_v3_3\Source\FFXI-IconChange 3.3\obj\Release\FFXI-IconChange.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\FFXI IconChange\FFXI_Icon_Change_v3_3\Source\FFXI-IconChange 3.3\obj\Release\FFXI-IconChange.exe.manifest
+C:\Users\admin\Desktop\FFXI IconChange\FFXI_Icon_Change_v3_3\Source\FFXI-IconChange 3.3\obj\Release\FFXI-IconChange.application
