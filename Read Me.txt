@@ -29,3 +29,8 @@ Thanks to Kenshi for allowing me to include his Master UI in the project.
 Thanks to Wildman for his assistance and allowing me to include his files in the project also.
 
 Thanks to all who previously worked on the project.
+
+===================================================
+
+XI View is not compatible with XI Pivot - although the icon modifications may work, everything else will not.
+If you're using XI Pivot and have issues with XI View - unload it and try following the installation instructions here to see if it resolves the problem.
