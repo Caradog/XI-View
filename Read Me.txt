@@ -29,3 +29,10 @@ Thanks to Kenshi for allowing me to include his Master UI in the project.
 Thanks to Wildman for his assistance and allowing me to include his files in the project also.
 
 Thanks to all who previously worked on the project.
+
+===================================================
+
+XI View compatibility with XI Pivot
+
+Windower: XI View is partly compatible, however the menu updates occur before XI Pivot loads and won't work
+Ashita v4 onward: XI View is fully compatible with XI View
